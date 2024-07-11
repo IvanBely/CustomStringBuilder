@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>LocalDateTimeView</artifactId>
+    <artifactId>WorkSpase</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>LocalDateTimeView</name>
+    <name>WorkSpase</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
