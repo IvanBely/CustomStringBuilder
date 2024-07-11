@@ -1,4 +1,6 @@
-package org.example;
+package org.example.customStringBuilder;
+
+import org.example.customStringBuilder.CustomStringBuilder;
 
 public class Main {
     public static void main(String[] args) {
