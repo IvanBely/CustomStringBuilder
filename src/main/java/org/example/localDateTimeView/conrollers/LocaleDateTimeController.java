@@ -1,6 +1,6 @@
-package org.example.LocalDateTimeView.conrollers;
+package org.example.localDateTimeView.conrollers;
 
-import org.example.LocalDateTimeView.dto.LocalDateTimeDto;
+import org.example.localDateTimeView.dto.LocalDateTimeDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

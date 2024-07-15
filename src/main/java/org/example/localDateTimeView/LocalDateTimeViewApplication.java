@@ -1,4 +1,4 @@
-package org.example.LocalDateTimeView;
+package org.example.localDateTimeView;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

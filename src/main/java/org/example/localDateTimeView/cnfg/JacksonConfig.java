@@ -1,4 +1,4 @@
-package org.example.LocalDateTimeView.cnfg;
+package org.example.localDateTimeView.cnfg;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
