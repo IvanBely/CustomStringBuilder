@@ -1,4 +1,4 @@
-package org.example.сoncurrencySynchronization;
+package org.example.concurrencySynchronization;
 
 public class ComplexTask {
     private final int taskId;

@@ -1,4 +1,4 @@
-package org.example.сoncurrencySynchronization;
+package org.example.concurrencySynchronization;
 
 import java.util.concurrent.*;
 
